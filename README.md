@@ -1,15 +1,18 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Next Auth Google Provider Template
+
+This is a Google Auth template using NextAuth for Next version 13.
+
 ## Getting Started
 
 First, run the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+1. npm install
+2. npm run dev
+3. create .env.local
+4. write your cliendId and clientSecret
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
